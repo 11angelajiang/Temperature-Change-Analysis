@@ -28,6 +28,7 @@ Run the Dash App:
 python src/app.py
 ```
 - Open your browser and go to: [http://127.0.0.1:8050](http://127.0.0.1:8050)
+- If you can not get directed to the website, click or copy the link to view the visualization.
 
 How to Interact:
 - **Hover** over any point to see detailed values (country, year, temperature change).  
